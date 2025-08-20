@@ -1,5 +1,5 @@
 # Figure1A
-Two sci-art comics made for Figure1A.
+Two sci-art comics made for Figure1A. (This page might take some time to load because of the high-res images)
 
 
 ![Borrowed Shade](FINAL%20EXPORTS/ArtDrivenByScience_BorrowedShade.png)
